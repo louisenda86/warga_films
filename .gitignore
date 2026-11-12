@@ -1,0 +1,7 @@
+# macOS and external-disk litter
+._*
+.DS_Store
+
+# local-only asset preparation (needs the film project folders on this machine)
+tools/prep_assets.py
+__pycache__/
